@@ -8,7 +8,7 @@
 
 在卸载之前，先停止MySQL8.0的服务。按键盘上的“Ctrl + Alt + Delete”组合键，打开“任务管理器”对话框，可以在“服务”列表找到“MySQL8.0”的服务，如果现在“正在运行”状态，可以右键单击服务，选择“停止”选项停止MySQL8.0的服务，如图所示。
 
-![image-20211014153604802](C:\Users\administered\Downloads\百度网盘\MySQL笔记\MySQL笔记\mysql基础篇笔记\images\image-20211014153604802.png)
+![image-20211014153604802](images/image-20211014153604802.png)
 
 ### 步骤2：软件的卸载
 
