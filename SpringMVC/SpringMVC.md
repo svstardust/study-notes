@@ -1316,7 +1316,6 @@ a>导入jackson的依赖
     <artifactId>jackson-databind</artifactId>
     <version>2.12.1</version>
 </dependency>
-12345
 ```
 
 b>在SpringMVC的核心配置文件中开启mvc的注解驱动，此时在HandlerAdaptor中会自动装配一个消息转换器：MappingJackson2HttpMessageConverter，可以将响应到浏览器的Java对象转换为Json格式的字符串
